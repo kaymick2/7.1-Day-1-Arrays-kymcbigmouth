@@ -5,7 +5,7 @@ class Main {
       biggie[x]=x+1;
     }
     for(int y=0;y<biggie.length;y++) {
-      System.out.println("element "+(y+1)+" is "+biggie[y]);
+      System.out.println("element "+(y+1)+" is "+biggie[y+1]);
     }
   }
 }
